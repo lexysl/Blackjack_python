@@ -23,3 +23,5 @@ In the latter case, the player loses and the dealer collects the bet wagered. Th
 The combination of an ace with a card other than a ten-card is known as a "soft hand," because the player can count the ace as a 1 or 11, and either draw cards or not.
 For example with a "soft 17" (an ace and a 6), the total is 7 or 17. While a count of 17 is a good hand, the player may wish to draw for a higher total.
 If the draw creates a bust hand by counting the ace as an 11, the player simply counts the ace as a 1 and continues playing by standing or "hitting" (asking the dealer for additional cards, one at a time).
+
+learn more: https://bicyclecards.com/how-to-play/blackjack/
